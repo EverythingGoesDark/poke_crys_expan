@@ -46,3 +46,5 @@ I cant promise that everything will work as planned, or that the game will be pl
 The story isnt fleshed out as I dont yet have everything prepared andhavent collected many ideas for characters, Pokemon etc. Once I am ready to create on my computer, its likely I will be able to give more information.
 
 I will add a tiny collection of things I have gathered for now, though!
+
+Im so sorry the sprites look so blurry, I will change that when my environment is back
