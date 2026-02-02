@@ -1,7 +1,7 @@
 # poke_crys_expan
 This project will take a while to even get started on, as I will first collect ideas and concepts.
 
-Anyone willing to help, contribute or work alonside with me will please contact me with my active E-mail address (cburkandt10.gmx.de) or on discord (imrealyourenot)
+Anyone willing to help, contribute or work alonside with me will please contact me with my active E-mail address (cburkandt10@gmx.de) or on discord (imrealyourenot)
 
 
 
